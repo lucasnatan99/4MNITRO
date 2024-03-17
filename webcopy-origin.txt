@@ -1,0 +1,252 @@
+Uri: https://cdn.discordapp.com/attachments/1212946627489304627/1213166587629281290/storm-produtos3.png?ex=65f47c6e&is=65e2076e&hm=f2950f5e1ef78c23b931c2f3c6527e52ce782203b1bcccc0549c149c890e16d5&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\1212946627489304627\1213166587629281290\storm-produtos3.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/1212946627489304627/1213166588300103750/storm-produtos1.png?ex=65f47c6e&is=65e2076e&hm=ce0649a55d7b977fb1efd5b7cff64e49f2bcd8c59f01763c70501320087f0ae8&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\1212946627489304627\1213166588300103750\storm-produtos1.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212876726984769586/discstorm_conta.webp?ex=65f36e79&is=65e0f979&hm=ec68c0a146eb9d7a194e3173dba02413d8d2a70becfa2a08c4e83ab3aabf379f&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212876726984769586\discstorm_conta.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212876915908546620/ce.webp?ex=65f36ea6&is=65e0f9a6&hm=3cb7ec8cfda2142a41743f8ba226b23c071ce2bb49d2133cd54c940dc28a5cec&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212876915908546620\ce.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212921415813169232/st16.png?ex=65f39818&is=65e12318&hm=e7d8d54070be443d57106d70aa3b926c17977ab8c5a1e518a029d304c6d3d85a&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212921415813169232\st16.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212926007279882240/st7.webp?ex=65f39c5f&is=65e1275f&hm=7cadc8ce1dcefdd2d61a679967e705ead2929f09142d597b5fb12cf5d7f93753&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212926007279882240\st7.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212926541621624872/st10.webp?ex=65f39cde&is=65e127de&hm=14961e9af3c03573c253603ca868ea89cd3899a93b96a0bf7b3bdf2559ecb93e&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212926541621624872\st10.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212928061289271356/impulsos.webp?ex=65f39e48&is=65e12948&hm=b229cc136fdad44450e3b8fa404e2497b7337dc0cd86dfdc76e2669eaef3e974&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212928061289271356\impulsos.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212929117004103750/amazon.webp?ex=65f39f44&is=65e12a44&hm=e10ecc9bc88afd486d8724bec8ca22eb987d8c98fd1c29b307200e6a59677bdb&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212929117004103750\amazon.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212930211105210429/email_out.png?ex=65f3a049&is=65e12b49&hm=1e8a5f0495768e7f851550ab85294442841149ec36657dcfe259085d43cc9076&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212930211105210429\email_out.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/988533933387968662/1212930875155546164/key.webp?ex=65f3a0e7&is=65e12be7&hm=46a7a33b69635c6c76a892f662cf057d41dcb6703f0ab6bc150b2bd6a12756ed&
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\988533933387968662\1212930875155546164\key.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/emojis/1118117438354116708.webp?size=96&quality=lossless
+File Name: C:\Downloaded Web Sites\stormnitro.com\emojis\1118117438354116708.webp
+Content Type: image/webp
+
+Uri: https://media.discordapp.net/attachments/1212946627489304627/1213166587306311732/storm-produtos2.png?ex=65f47c6d&is=65e2076d&hm=f4fe1f9f368e1398cb8177645d00d542bd38161cb84e6a175079c41c987f4635&=&format=webp&quality=lossless
+File Name: C:\Downloaded Web Sites\stormnitro.com\attachments\1212946627489304627\1213166587306311732\storm-produtos2.png
+Content Type: image/webp
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Downloaded Web Sites\stormnitro.com\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317
+Content Type: text/javascript
+
+Uri: https://stormnitro.com/
+File Name: C:\Downloaded Web Sites\stormnitro.com\index.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/170922846472079378440288772504312378/1709228650956283542054797108522
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\170922846472079378440288772504312378\1709228650956283542054797108522.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/170922846472079378440288772504312378/17092286957758595764959783987
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\170922846472079378440288772504312378\17092286957758595764959783987.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/170922846472079378440288772504312378/17092551471258161721489494905198
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\170922846472079378440288772504312378\17092551471258161721489494905198.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092287266361244392633305534/1709228965031598448341808756
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092287266361244392633305534\1709228965031598448341808756.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092287266361244392633305534/1709255248013887499476973668025
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092287266361244392633305534\1709255248013887499476973668025.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092287266361244392633305534/170925539716618517479055979
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092287266361244392633305534\170925539716618517479055979.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092287266361244392633305534/1709526625752071284508679465436
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092287266361244392633305534\1709526625752071284508679465436.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092304335689964449413214045406/1709230990529725844299903705246
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092304335689964449413214045406\1709230990529725844299903705246.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092304335689964449413214045406/1709231042826765904959113774051
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092304335689964449413214045406\1709231042826765904959113774051.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092304335689964449413214045406/17092431859173045567500728489
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092304335689964449413214045406\17092431859173045567500728489.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17092304335689964449413214045406/1709253264084124218683932663
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17092304335689964449413214045406\1709253264084124218683932663.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/170925484981287184442718836778153/1709254893839547425319570819
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\170925484981287184442718836778153\1709254893839547425319570819.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/170925484981287184442718836778153/170925494333868904394975598677
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\170925484981287184442718836778153\170925494333868904394975598677.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/170925484981287184442718836778153/17092549705678222334454359048
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\170925484981287184442718836778153\17092549705678222334454359048.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/1709255457793793422104520358/170925557487625974228291958878
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\1709255457793793422104520358\170925557487625974228291958878.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/1709255457793793422104520358/170925569858949037134683838071627920
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\1709255457793793422104520358\170925569858949037134683838071627920.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17100502865557304049898927759237/171005037381126441481101811339
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17100502865557304049898927759237\171005037381126441481101811339.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/product/17100502865557304049898927759237/171005039709233457744074565728
+File Name: C:\Downloaded Web Sites\stormnitro.com\product\17100502865557304049898927759237\171005039709233457744074565728.htm
+Content Type: text/html
+
+Uri: https://stormnitro.com/_next/image?url=%2Fimgs%2Ficons%2Fdiscord.png&w=128&q=70
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\discord.png
+Content Type: image/png
+
+Uri: https://stormnitro.com/_next/image?url=%2Fimgs%2Ficons%2Fdiscord.png&w=64&q=70
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\discord-1.png
+Content Type: image/png
+
+Uri: https://stormnitro.com/_next/image?url=%2Fimgs%2Ficons%2Ftelegram.png&w=128&q=70
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\telegram.png
+Content Type: image/png
+
+Uri: https://stormnitro.com/_next/image?url=%2Fimgs%2Ficons%2Ftelegram.png&w=64&q=70
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\telegram-1.png
+Content Type: image/png
+
+Uri: https://stormnitro.com/_next/static/chunks/237-2d27d0b003acc91a.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\237-2d27d0b003acc91a.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/396-355bc7a1bb76bc49.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\396-355bc7a1bb76bc49.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/472-7250776b75af0576.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\472-7250776b75af0576.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/691-f83ae7da7135434e.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\691-f83ae7da7135434e.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/695-54bc576e20581209.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\695-54bc576e20581209.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/705-a195524a9f89ab65.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\705-a195524a9f89ab65.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/750-8b183114334dd123.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\750-8b183114334dd123.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/app/(public)/layout-de21f5c6797f3d6a.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\app\(public)\layout-de21f5c6797f3d6a.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/app/(public)/page-e34f0810897aaed3.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\app\(public)\page-e34f0810897aaed3.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/app/(public)/product/[category]/[product]/@informEmail/page-3cd8e3c5701bd180.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\app\(public)\product\[category]\[product]\@informEmail\page-3cd8e3c5701bd180.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/app/(public)/product/[category]/[product]/@selectPayment/page-5043b80b326045a3.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\app\(public)\product\[category]\[product]\@selectPayment\page-5043b80b326045a3.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/app/(public)/product/[category]/[product]/layout-b2f7822f6e8e6a96.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\app\(public)\product\[category]\[product]\layout-b2f7822f6e8e6a96.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/app/(public)/product/[category]/[product]/page-9a4fe5a20cf63e48.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\app\(public)\product\[category]\[product]\page-9a4fe5a20cf63e48.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/app/layout-e0d6db69a83219d7.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\app\layout-e0d6db69a83219d7.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/fd9d1056-a3ea7166f2741513.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\fd9d1056-a3ea7166f2741513.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/main-app-d33aeeca8478b506.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\main-app-d33aeeca8478b506.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/chunks/webpack-94a5f1ae046195cd.js
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\chunks\webpack-94a5f1ae046195cd.js
+Content Type: application/javascript
+
+Uri: https://stormnitro.com/_next/static/css/a455afbbba9cb012.css
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\css\a455afbbba9cb012.css
+Content Type: text/css
+
+Uri: https://stormnitro.com/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://stormnitro.com/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://stormnitro.com/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://stormnitro.com/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://stormnitro.com/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://stormnitro.com/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://stormnitro.com/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\stormnitro.com\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
